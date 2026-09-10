@@ -1,0 +1,11 @@
+{
+  "name": "backend-api-service",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "extract-zip": "^2.0.1"
+  }
+}
